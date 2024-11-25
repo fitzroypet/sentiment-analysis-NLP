@@ -1,3 +1,7 @@
 sentiment_env/
 __pycache__/
 *.pyc
+
+# Exclude large data files
+data/analyzed_reviews.csv
+data/Reviews.csv
